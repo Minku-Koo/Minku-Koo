@@ -49,7 +49,7 @@
 
 - 🔭 I’m currently working on [PDF Table Extractors](https://github.com/TableExtractorPdf/PDF_table_extract)
 
-- 🌱 I’m currently learning **ML/DL and Data Mining**
+- 🌱 I’m currently learning **Data Mining **
 
 - 📫 How to reach me **corleone@kakao.com**
 
