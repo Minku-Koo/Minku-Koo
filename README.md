@@ -1,68 +1,90 @@
 <!--### Hi there 👋
 
 <h3 align="left">Connect with me:</h3>
-
 -->
-<p  align="right"> <img src="https://komarev.com/ghpvc/?username=minku-koo&label=views&color=49b9df&style=flat" alt="minku-koo" /> </p>
+<p  align="right"> <img src="https://komarev.com/ghpvc/?username=minku-koo&label=views&color=088A08&style=flat" alt="minku-koo" /> </p>
 
 <h1 align="center">Hi 👋, I'm Minku !</h1>
 <!--<h3 align="center">I'm interested in data and backend developers from Korea</h3>   -->
 <p align="center">
-  
   <a href="https://github.com/Minku-Koo">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Minku-Koo" >
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=6e5494&link=https://github.com/Minku-Koo" >
   </a>
   <a href="https://instagram.com/min9_koo">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=F781BE&link=https://instagram.com/min9_koo/">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b&link=https://instagram.com/min9_koo/">
   </a>
-
   <a href="https://tech-diary.tistory.com/">
     <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=5882FA&link=https://tech-diary.tistory.com/">
   </a>
 </p>
 
 
-
-- 🔭 I’m currently working on [PDF Table Extractors](https://github.com/TableExtractorPdf/PDF_table_extract)
-
 - 🌱 I’m currently learning **Data Mining and Computer Vision**
 
 - 📫 How to reach me **corleone@kakao.com**
 
-- ⚡ My hobby is **photography, travelling, writing novel, football**
+- 😘 I love **photography, travelling, writing novel, football**
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-    <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a> 
-  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30"/> </a> 
-   <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/> </a> 
-   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> 
-   <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="30" height="30"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
+<p>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white" /></a>&nbsp
+  <img src="https://img.shields.io/badge/Flask-0d7963?style=for-the-badge&logo=Flask&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=Django&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/OpenCV-128dff?style=for-the-badge&logo=OpenCV&logoColor=white"/></a><br>
+  <img src="https://img.shields.io/badge/TensorFlow-FFA800?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=selenium&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ORACLE-f80102?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MariaDB-c0765a?style=flat-square&logo=mariadb&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C-5c6bc0?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/git-f34f29?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-2965f1?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
   
-  </p>
+</p>
 
 <table >
-  <td valign="top" >
-<img align="left" rel="noopener noreferrer" 
-     src="https://github-readme-stats.vercel.app/api/top-langs?username=minku-koo&show_icons=true&theme=dracula&locale=en&layout=compact"
-     alt="minku-koo" style="max-width:100%" /> 
-</td>
-  <td valign="top" width="50%" >
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=minku-koo&show_icons=true&theme=dracula&locale=en" 
-              alt="minku-koo"  style="max-width:100%" />
-</td>
+  <tr>
+    <td valign="top" width="50%" >
+      <img align="left" rel="noopener noreferrer" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=minku-koo&show_icons=true&theme=dracula&locale=en&layout=compact"
+       alt="minku-koo" style="max-width:100%" /> 
+    </td>
+    <td valign="top" width="50%" >
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=minku-koo&show_icons=true&theme=dracula&locale=en" 
+                alt="minku-koo"  style="max-width:100%" />
+    </td>
+  </tr>
+  
 </table>
+
+
+<!--
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+      <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
+    <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+      <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a> 
+    <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30"/> </a> 
+     <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/> </a> 
+     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> 
+     <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="30" height="30"/> </a> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
+    <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
+  
+</p>
+
+-->
 
 
 <!--
