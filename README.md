@@ -29,20 +29,20 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white" /></a>&nbsp
-  <img src="https://img.shields.io/badge/Flask-0d7963?style=for-the-badge&logo=Flask&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Flask-0d7963?style=for-the-badge&logo=Flask&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/OpenCV-128dff?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/TensorFlow-FFA800?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-FFA800?style=flat-square&logo=tensorflow&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=selenium&logoColor=white"/></a><br>
-  <img src="https://img.shields.io/badge/ORACLE-f80102?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ORACLE-f80102?style=flat-square&logo=oracle&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-c0765a?style=flat-square&logo=mariadb&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square&logo=java&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=flat-square&logo=JavaScript&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-5c6bc0?style=flat-square&logo=c&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/git-f34f29?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-2965f1?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=AmazonAWS&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/git-f34f29?style=flat-square&logo=git&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
   
 </p>
