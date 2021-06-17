@@ -1,46 +1,5 @@
 <!--### Hi there 👋
 
-<h3 align="center"></h3>
-<p align="center">
-  <a href="https://github.com/Minku-Koo">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Minku-Koo">
-  </a>
-  <a href="https://instagram.com/min9_koo">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=F781BE&link=https://instagram.com/min9_koo/">
-  </a>
-  <a href="https://tech-diary.tistory.com/">
-    <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=5882FA&link=https://tech-diary.tistory.com/">
-  </a>
-  
-</p>
- 
-
-<a href="https://github.com/Minku-Koo">
-    <img src= "./github.svg"align="center"  height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/min9_koo">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=F781BE&link=https://instagram.com/min9_koo/">
-  </a>
-
-  <a href="https://tech-diary.tistory.com/">
-    <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=5882FA&link=https://tech-diary.tistory.com/">
-  </a>
--->
-
-
-<h1 align="center">Hi 👋, I'm Minku</h1>
-<h3 align="center">I'm interested in data and backend developers from Korea</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minku-koo&label=views&color=49b9df&style=flat" alt="minku-koo" /> </p>
-
-- 🔭 I’m currently working on [PDF Table Extractors](https://github.com/TableExtractorPdf/PDF_table_extract)
-
-- 🌱 I’m currently learning **ML/DL and Data Mining**
-
-- 📫 How to reach me **corleone@kakao.com**
-
-- ⚡ My hobby is **photography, travelling, writing novel, football**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
@@ -55,6 +14,47 @@
     <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=5882FA&link=https://tech-diary.tistory.com/">
   </a>
 </p>
+ 
+
+<a href="https://github.com/Minku-Koo">
+    <img src= "./github.svg"align="center"  height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/min9_koo">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=F781BE&link=https://instagram.com/min9_koo/">
+  </a>
+
+  <a href="https://tech-diary.tistory.com/">
+    <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=5882FA&link=https://tech-diary.tistory.com/">
+  </a>
+-->
+<p  align="right"> <img src="https://komarev.com/ghpvc/?username=minku-koo&label=views&color=49b9df&style=flat" alt="minku-koo" /> </p>
+
+<h1 align="center">Hi 👋, I'm Minku !</h1>
+<!--<h3 align="center">I'm interested in data and backend developers from Korea</h3>   -->
+<p align="center">
+  
+  <a href="https://github.com/Minku-Koo">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Minku-Koo" >
+  </a>
+  <a href="https://instagram.com/min9_koo">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=F781BE&link=https://instagram.com/min9_koo/">
+  </a>
+
+  <a href="https://tech-diary.tistory.com/">
+    <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=5882FA&link=https://tech-diary.tistory.com/">
+  </a>
+</p>
+
+
+
+- 🔭 I’m currently working on [PDF Table Extractors](https://github.com/TableExtractorPdf/PDF_table_extract)
+
+- 🌱 I’m currently learning **ML/DL and Data Mining**
+
+- 📫 How to reach me **corleone@kakao.com**
+
+- ⚡ My hobby is **photography, travelling, writing novel, football**
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -76,10 +76,17 @@
   
   </p>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minku-koo&show_icons=true&theme=dracula&locale=en&layout=compact" alt="minku-koo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minku-koo&show_icons=true&theme=dracula&locale=en" alt="minku-koo" /></p>
-
+<table >
+  <td valign="top" >
+<img align="left" rel="noopener noreferrer" 
+     src="https://github-readme-stats.vercel.app/api/top-langs?username=minku-koo&show_icons=true&theme=dracula&locale=en&layout=compact"
+     alt="minku-koo" style="max-width:100%" /> 
+</td>
+  <td valign="top" width="50%" >
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=minku-koo&show_icons=true&theme=dracula&locale=en" 
+              alt="minku-koo"  style="max-width:100%" />
+</td>
+</table>
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minku-koo&theme=highcontrast" alt="minku-koo" /></p>
 -->
