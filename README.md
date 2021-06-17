@@ -75,7 +75,7 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
   
   </p>
-  <!--
+
 <table >
   <td valign="top" >
 <img align="left" rel="noopener noreferrer" 
@@ -86,19 +86,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=minku-koo&show_icons=true&theme=dracula&locale=en" 
               alt="minku-koo"  style="max-width:100%" />
 </td>
-</table>-->
+</table>
 
-<div style="display: inline-block;">
-  <p width="48%">
-  <img align="left" rel="noopener noreferrer" 
-     src="https://github-readme-stats.vercel.app/api/top-langs?username=minku-koo&show_icons=true&theme=dracula&locale=en&layout=compact"
-     alt="minku-koo" style="max-width:100%" /> 
-  </p>
-  <p width="48%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minku-koo&show_icons=true&theme=dracula&locale=en" 
-              alt="minku-koo"  style="max-width:100%" />
-  </p>
-</div>
 
 
 <!--
