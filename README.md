@@ -31,9 +31,9 @@
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white" /></a>&nbsp
   <img src="https://img.shields.io/badge/Flask-0d7963?style=for-the-badge&logo=Flask&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=Django&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/OpenCV-128dff?style=for-the-badge&logo=OpenCV&logoColor=white"/></a><br>
+  <img src="https://img.shields.io/badge/OpenCV-128dff?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FFA800?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=selenium&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=selenium&logoColor=white"/></a><br>
   <img src="https://img.shields.io/badge/ORACLE-f80102?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-c0765a?style=flat-square&logo=mariadb&logoColor=white"/></a>&nbsp
