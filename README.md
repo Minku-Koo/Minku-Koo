@@ -89,12 +89,12 @@
 </table>-->
 
 <div style="display: inline-block;">
-  <p width="50%">
+  <p width="48%">
   <img align="left" rel="noopener noreferrer" 
      src="https://github-readme-stats.vercel.app/api/top-langs?username=minku-koo&show_icons=true&theme=dracula&locale=en&layout=compact"
      alt="minku-koo" style="max-width:100%" /> 
   </p>
-  <p width="50%">
+  <p width="48%">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=minku-koo&show_icons=true&theme=dracula&locale=en" 
               alt="minku-koo"  style="max-width:100%" />
   </p>
