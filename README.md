@@ -1,31 +1,7 @@
 <!--### Hi there 👋
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-  <a href="https://github.com/Minku-Koo">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Minku-Koo" >
-  </a>
-  <a href="https://instagram.com/min9_koo">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=F781BE&link=https://instagram.com/min9_koo/">
-  </a>
 
-  <a href="https://tech-diary.tistory.com/">
-    <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=5882FA&link=https://tech-diary.tistory.com/">
-  </a>
-</p>
- 
-
-<a href="https://github.com/Minku-Koo">
-    <img src= "./github.svg"align="center"  height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/min9_koo">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=F781BE&link=https://instagram.com/min9_koo/">
-  </a>
-
-  <a href="https://tech-diary.tistory.com/">
-    <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=5882FA&link=https://tech-diary.tistory.com/">
-  </a>
 -->
 <p  align="right"> <img src="https://komarev.com/ghpvc/?username=minku-koo&label=views&color=49b9df&style=flat" alt="minku-koo" /> </p>
 
@@ -89,11 +65,15 @@
 </table>
 
 
-
 <!--
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Minku-Koo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/min9_koo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bloglovin.svg' alt='bloglovin' height='40'>](https://www.tistory.com/)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Minku-Koo)  
+
+![GitHub metrics](https://metrics.lecoq.io/Minku-Koo)  
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minku-koo&theme=highcontrast" alt="minku-koo" /></p>
 -->
-
 
 
 <!--
