@@ -14,7 +14,10 @@
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b&link=https://instagram.com/min9_koo/">
   </a>
   <a href="https://tech-diary.tistory.com/">
-    <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=5882FA&link=https://tech-diary.tistory.com/">
+    <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=6E6E6E&link=https://tech-diary.tistory.com/">
+  </a>
+  <a href="https://www.rocketpunch.com/@corleone">
+    <img src="https://img.shields.io/badge/Rocket Punch-000000?&style=for-the-badge&logo=Rocket.Chat&logoColor=white&color=4E61FF&link=https://www.rocketpunch.com/@corleone">
   </a>
 </p>
 
