@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **corleone@kakao.com**
 
-- 😘 I love **photography, travelling, writing novel, football**
+- 😘 I love **Photography, Travelling, Writing Novel, Football**
 
 
 <h3 align="left">Languages and Tools:</h3>
