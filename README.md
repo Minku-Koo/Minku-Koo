@@ -2,7 +2,9 @@
 
 <h3 align="left">Connect with me:</h3>
 -->
-<p  align="right"> <img src="https://komarev.com/ghpvc/?username=minku-koo&label=views&color=088A08&style=flat" alt="minku-koo" /> </p>
+<p  align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=minku-koo&label=views&color=088A08&style=flat" alt="minku-koo" /> 
+</p>
 
 <h1 align="center">Hi 👋, I'm Minku !</h1>
 <!--<h3 align="center">I'm interested in data and backend developers from Korea</h3>   -->
