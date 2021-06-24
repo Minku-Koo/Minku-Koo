@@ -5,7 +5,7 @@
 <p  align="right"> <img src="https://komarev.com/ghpvc/?username=minku-koo&label=views&color=088A08&style=flat" alt="minku-koo" /> </p>
 
 <h1 align="center">Hi 👋, I'm Minku !</h1>
-<!--<h3 align="center">I'm interested in data and backend developers from Korea</h3>   -->
+<h3 align="center">I'm interested in data and backend developers from Korea</h3>   -->
 <p align="center">
   <a href="https://github.com/Minku-Koo">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=6e5494&link=https://github.com/Minku-Koo" >
@@ -16,9 +16,9 @@
   <a href="https://tech-diary.tistory.com/">
     <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=6E6E6E&link=https://tech-diary.tistory.com/">
   </a>
-  <a href="https://www.rocketpunch.com/@corleone">
+  <!--<a href="https://www.rocketpunch.com/@corleone">
     <img src="https://img.shields.io/badge/Rocket Punch-000000?&style=for-the-badge&logo=Rocket.Chat&logoColor=white&color=4E61FF&link=https://www.rocketpunch.com/@corleone">
-  </a>
+  </a>-->
 </p>
 
 
