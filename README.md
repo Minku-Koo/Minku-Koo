@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **corleone@kakao.com**
 
-- 😘 I love **Photography, [Travelling](https://brunch.co.kr/@corleone#articles), [Writing Novel](https://www.bookk.co.kr/book/view/77583), Football**
+- 😘 I love **Photography, [Travelling](https://brunch.co.kr/brunchbook/anyway-travel), [Writing Novel](https://www.bookk.co.kr/book/view/77583), Football**
 
 
 <h3 align="left">Languages and Tools:</h3>
