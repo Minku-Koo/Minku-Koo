@@ -24,7 +24,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Data Mining and Computer Vision**
+- 🌱 I’m currently learning **DL and CV**
 
 - 📫 How to reach me **corleone@kakao.com**
 
