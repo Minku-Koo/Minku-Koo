@@ -23,8 +23,9 @@
   </a>-->
 </p>
 
+- 🔭 I’m currently working on **SAMSUNG ELETRONICS**
 
-- 🌱 I’m currently learning **DL and CV**
+- 🌱 I’m currently learning **CV and EMBEDED**
 
 - 📫 How to reach me **corleone@kakao.com**
 
