@@ -25,7 +25,9 @@
 
 - 🔭 I’m currently working on **SAMSUNG ELETRONICS**
 
-- 🌱 I’m currently learning **CV and EMBEDED**
+- 👯 I collaborate on **Open Source SW Contribution** 
+
+- 🌱 I’m currently learning **CV and EMBEDDED**
 
 - 📫 How to reach me **corleone@kakao.com**
 
