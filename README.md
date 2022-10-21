@@ -23,7 +23,7 @@
   </a>-->
 </p>
 
-- 🔭 I’m currently working on **SAMSUNG ELETRONICS**
+- 🔭 I’m currently working on **SAMSUNG ELECTRONICS**
 
 - 👯 I collaborate on **Open Source SW Contribution** 
 
