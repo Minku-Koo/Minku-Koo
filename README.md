@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=6e5494&link=https://github.com/Minku-Koo" >
   </a>
   <a href="https://instagram.com/min9_koo">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b&link=https://instagram.com/min9_koo/">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F&link=https://instagram.com/min9_koo/">
   </a>
   <a href="https://tech-diary.tistory.com/">
     <img src="https://img.shields.io/badge/tech blog-000000?&style=for-the-badge&logo=Bloglovin&logoColor=white&color=6E6E6E&link=https://tech-diary.tistory.com/">
@@ -38,10 +38,10 @@
 
 <h3 align="left">Maybe Good at:</h3>
 <p>
-  <img src="https://img.shields.io/badge/C-5c6bc0?style=for-the-badge&logo=c&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white" /></a>&nbsp
+  <img src="https://img.shields.io/badge/C-FE9A2E?style=for-the-badge&logo=c&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /></a>&nbsp
   <!--<img src="https://img.shields.io/badge/Flask-0d7963?style=for-the-badge&logo=Flask&logoColor=black"/></a>&nbsp-->
-  <img src="https://img.shields.io/badge/OpenCV-128dff?style=for-the-badge&logo=OpenCV&logoColor=white"/></a><br>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/></a><br>
   <!--<img src="https://img.shields.io/badge/TensorFlow-FFA800?style=flat-square&logo=tensorflow&logoColor=black"/></a>&nbsp-->
   <!--<img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp-->
   <!--<img src="https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=selenium&logoColor=white"/></a>&nbsp-->
