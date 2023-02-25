@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **corleone@kakao.com**
 
-- 😘 I love **Photography, [Travelling](https://brunch.co.kr/brunchbook/anyway-travel), [Writing Novel](https://www.bookk.co.kr/book/view/77583), Football**
+- 😘 I love **Photography, Travelling, Writing, Football**
 
 <!--- 📚 My Notion is [here](https://bit.ly/3GVq0FN)-->
 
