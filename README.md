@@ -28,7 +28,7 @@
 
 <!-- - 👯 I collaborate on **Open Source SW Contribution**  -->
 
-- 🌱 I’m currently learning **DE and EMBEDDED**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 📫 How to reach me **corleone@kakao.com**
 
